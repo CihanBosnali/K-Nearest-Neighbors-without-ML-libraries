@@ -1,5 +1,3 @@
-# K-Nearest-Neighbors-without-ML-libraries
+# THIS REPOSITORY IS MERGED TO [Machine Learning Without Libraries](https://github.com/CihanBosnali/Machine-Learning-without-Libraries) Repository.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-K-NN is a basic classification algorithm that can classify a data using its distance to other data points. I wrote a KNN algorithm without using any Machine Learning libraries such as scikit-learn etc.
+This repo is achieved. Please see the new repo for updates, issues, pull requests. Fork or star the new repo.
